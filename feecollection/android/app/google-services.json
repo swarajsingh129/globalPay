@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599158264371",
+    "project_id": "global-fees",
+    "storage_bucket": "global-fees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599158264371:android:19754f8f8e583302750946",
+        "android_client_info": {
+          "package_name": "com.example.feecollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599158264371-etu7a1m69638f3mmfekg0eh636vih9c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feecollection",
+            "certificate_hash": "fc83565708f1237f6c6e12f5ac40d1d05bd3b028"
+          }
+        },
+        {
+          "client_id": "599158264371-5n1gijggl1kc36u07o5sfb55j0jvq4v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpveqVNzdx8CwpVkBt64wpOsPwV3Q3_SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599158264371-5n1gijggl1kc36u07o5sfb55j0jvq4v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
